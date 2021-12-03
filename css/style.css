@@ -1,4 +1,64 @@
- 
+@media screen and (min-width: 480px) and (max-width: 800px) {
+    /* Estilos */
+    #area-cabecalho{
+        background-color: #F5BB00;
+        width: 650px;
+        padding: 15px;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 300px) and (max-width: 600px) {
+    /* Estilos */
+    #area-cabecalho{
+        background-color: #F5BB00;
+        width: 650px;
+        padding: 15px;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 200px) and (max-width: 400px) {
+    /* Estilos */
+    #area-cabecalho{
+        background-color: #F5BB00;
+        width: 650px;
+        padding: 15px;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 147px) and (max-width: 200px) {
+    /* Estilos */
+    #area-cabecalho{
+        background-color: #F5BB00;
+        width: 230px;
+        padding: 15px;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 100px) and (max-width: 146px) {
+    /* Estilos */
+    #area-cabecalho{
+        background-color: #F5BB00;
+        width: 400px;
+        padding: 15px;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 30px) and (max-width: 100px) {
+    /* Estilos */
+    #area-cabecalho{
+        background-color: #F5BB00;
+        width: 230px;
+        padding: 15px;
+        text-align: center;
+    }
+}
+
+
 /* Base */
 *{
     margin: 0;
@@ -12,7 +72,6 @@ body{
 /* Layout */
 #area-cabecalho{
     background-color: #F5BB00;
-    width: 100%;
     padding: 15px;
     text-align: center;
 }
