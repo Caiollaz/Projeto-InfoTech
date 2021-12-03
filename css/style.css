@@ -1,37 +1,4 @@
-@media screen and (min-width: 1200px) {
-    #area-cabecalho {
-    width: 80%;
-    }
-
-    #area-menu, #area-cabecalho a:hover{
-        padding: auto;
-    }
-}
-@media screen and (max-width: 800px) {
-    #area-cabecalho {
-    width: 100%;
-    }
-    #area-menu, #area-cabecalho a:hover{
-        padding: auto;
-    }
-}
-@media screen and (max-width: 400px) {
-    #area-cabecalho {
-    width: 100%;
-    }
-    #area-menu, #area-cabecalho a:hover{
-        padding: auto;
-    }
-} 
-@media screen and (max-width: 200px) {
-    #area-cabecalho {
-    width: 100%;
-    }
-    #area-menu, #area-cabecalho a:hover{
-        padding: auto;
-    }
-}   
-
+ 
 /* Base */
 *{
     margin: 0;
