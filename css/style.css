@@ -1,11 +1,3 @@
-@media screen and (max-width: 480px) {
-    /* Estilos */
-    #area-cabecalho{
-        display: inline-block;
-        width: 920px;
-
-    }
-}
 /* Base */
 *{
     margin: 0;
@@ -18,6 +10,8 @@ body{
 }
 /* Layout */
 #area-cabecalho{
+    width: 100%;
+    min-width: 950px;
     background-color: #F5BB00;
     padding: 15px;
     text-align: center;
@@ -26,7 +20,8 @@ body{
     padding: 10px;
 }
 #area-principal{
-    width: 920px;
+    width: 50%;
+    min-width: 940px;
     margin: 0px auto;
     padding: 15px;
 }
